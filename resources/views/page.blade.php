@@ -38,19 +38,8 @@
         <div class="container">
 
             <div class="section-inner">
-                <h3 class="section-heading m-b-25">НАШИ УСЛУГИ</h3>
-
-
-
-
-
-
-
-
-
-
-
-
+                    <h3 class="section-heading m-b-25">НАШИ УСЛУГИ</h3>
+                
 
                 <div class="row justify-content-center">
                      {{--  ADS  --}}
@@ -2004,15 +1993,6 @@
 
 	</section><!-- end main -->
     {{menu('admin','Menur')}}  --}}
-
-
-
-
-
-
-
-
-
 
 
 @endsection('content')
